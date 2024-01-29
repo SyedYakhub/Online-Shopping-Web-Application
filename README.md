@@ -20,3 +20,6 @@ Key Contributions & Technologies Used:
 ➢ Designed and implemented RESTful APIs using SpringBoot for the backend of the application
 
 ➢ Tested REST APIs using Postman, utilizing tokens for authentication.
+
+<img width="931" alt="Architecture Diagram" src="https://github.com/SyedYakhub/Online-Shopping-Web-Application/assets/87276324/7128db9f-8ed5-4711-8054-3d3d98db2d3f">
+
